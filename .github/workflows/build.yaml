@@ -5,9 +5,7 @@ on:
 
   push:
     branches:
-      - development
-      - staging
-      - main
+      - team
 
 jobs:
   build:
